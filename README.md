@@ -19,18 +19,12 @@ Frameworks: Node.js, Express.js
 
 Databases: PostgreSQL, MySQL, SQLite
 
-## My Stats
-
-### Github Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Giddy-10)
-
-### Featured Project
 [Pathfinder](https://pathfinder-eosin.vercel.app/).
 
 Replace this line with a link to your Next.js project repository.
 
 <p align="center">
 <a href="mailto:gmutuku05@gmail.com">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" alt="Email Badge"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
 </a>
 </p>
