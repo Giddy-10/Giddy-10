@@ -5,23 +5,25 @@ I'm a third-year Software Engineering student with a passion for building robust
 I have 3 years of experience in frontend web development and 2 years in backend and database management. My core languages are JavaScript and TypeScript, but I'm also proficient in Python. I've had previous experience with C++ and Java.
 
 ## Skills
+
 ### Frontend
-Frameworks: React, Next.js
 
-Mobile: React Native, Flutter
+- **Frameworks:** React, Next.js
 
-Styling: Tailwind CSS, Bootstrap
+- **Mobile:** React Native, Flutter
 
-Animation: Motion (formerly Framer Motion), GSAP
+- **Styling:** Tailwind CSS, Bootstrap
+
+- **Animation:** Motion (formerly Framer Motion), GSAP
 
 ### Backend
-Frameworks: Node.js, Express.js
 
-Databases: PostgreSQL, MySQL, SQLite
+- **Frameworks:** Node.js, Express.js
 
-[Pathfinder](https://pathfinder-eosin.vercel.app/)
+- **Databases:** PostgreSQL, MySQL, SQLite, MongoDB
 
 <p align="center">
+<a href="https://pathfinder-eosin.vercel.app/">Pathfinder</a>
 <a href="mailto:gmutuku05@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
 </a>
