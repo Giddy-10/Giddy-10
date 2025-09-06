@@ -23,8 +23,11 @@ I have 3 years of experience in frontend web development and 2 years in backend 
 - **Databases:** PostgreSQL, MySQL, SQLite, MongoDB
 
 <p align="center">
-<a href="https://pathfinder-eosin.vercel.app/">Pathfinder</a>
-<a href="mailto:gmutuku05@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
-</a>
+  <a href="https://pathfinder-eosin.vercel.app/">Pathfinder</a>
+</p>
+
+<p align="center">
+  <a href="mailto:gmutuku05@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+  </a>
 </p>
