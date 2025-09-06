@@ -22,7 +22,7 @@ I have 3 years of experience in frontend web development and 2 years in backend 
 
 - **Databases:** PostgreSQL, MySQL, SQLite, MongoDB
 
-![Streaks](https://nirzak-streak-stats.vercel.app/?user=Giddy-10&theme=dark)
+![](https://nirzak-streak-stats.vercel.app/?user=Giddy-10&theme=dark)
 
 <p align="center">
   <a href="https://pathfinder-eosin.vercel.app/">Pathfinder</a>
