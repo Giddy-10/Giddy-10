@@ -24,11 +24,11 @@ I have 4 years of experience in frontend web development and 3 years in backend 
 
 ![](https://nirzak-streak-stats.vercel.app/?user=Giddy-10&theme=dark)
 
-<p align="center">
+<p align="left">
   <a href="https://pathfinder-eosin.vercel.app/">Pathfinder</a>
 </p>
 
-<p align="center">
+<p align="left">
   <a href="mailto:gmutuku05@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
