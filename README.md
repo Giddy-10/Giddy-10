@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-I'm a third-year Software Engineering student with a passion for building robust and beautiful applications. I've just completed my second year of studies and am looking forward to diving deeper into complex topics.
+I'm a fourth-year Software Engineering student with a passion for building robust and beautiful applications. I've just completed my third year of studies and am looking forward to diving deeper into complex topics.
 
-I have 3 years of experience in frontend web development and 2 years in backend and database management. My core languages are JavaScript and TypeScript, but I'm also proficient in Python. I've had previous experience with C++ and Java.
+I have 4 years of experience in frontend web development and 3 years in backend and database management. My core languages are JavaScript and TypeScript, but I'm also proficient in Python. I've had previous experience with C++ and Java.
 
 ## Skills
 
